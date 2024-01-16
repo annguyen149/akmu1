@@ -32,7 +32,6 @@
     display: flex;
     justify-content: space-around;
     position: fixed;
-    top: 0;
   }
   .welcome {
     margin-top: 100px;
