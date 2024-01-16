@@ -27,6 +27,8 @@
   }
   .home {
     display: flex;
+    position: absolute;
+    right: 0;
   }
   .logo-home {
     display: flex;
