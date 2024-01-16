@@ -28,7 +28,7 @@
   .home {
     display: flex;
     position: relative;
-    right: 0;
+    left: 0;
   }
   .logo-home {
     display: flex;
