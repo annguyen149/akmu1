@@ -31,6 +31,7 @@
   .logo-home {
     display: flex;
     justify-content: space-around;
+    position: fixed;
   }
   .welcome {
     margin-top: 100px;
