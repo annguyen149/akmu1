@@ -27,8 +27,6 @@
   }
   .home {
     display: flex;
-    position: relative;
-    padding-right: 10%;
   }
   .logo-home {
     display: flex;
