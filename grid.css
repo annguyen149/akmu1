@@ -27,7 +27,7 @@
   }
   .home {
     display: flex;
-    position: absolute;
+    position: relative;
     right: 0;
   }
   .logo-home {
